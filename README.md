@@ -7,6 +7,6 @@ Used local machine with training time 60 sec for one epoch, total 20 epochs.
 Accuracy scores on test data 65%
 
 
-![Alt Text](output.png)
+![Alt Text](output.2png.png)
 
 
